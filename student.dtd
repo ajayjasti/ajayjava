@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT class (student+)>
+<!ELEMENT student (name, dob)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT dob (#PCDATA)>
+<!ATTLIST student id CDATA #REQUIRED>

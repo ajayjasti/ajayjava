@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This XML document describes a student class -->
+<class>
+	<student id="1">
+		<name>John Doe</name>
+		<dob>01/01/2001</dob>
+	</student>
+	<student id="2">
+		<name>Mary Jane</name>
+		<dob>02/03/2000</dob>
+	</student>
+	<student id="3">
+		<name>Bill Joe</name>
+		<dob>05/06/1999</dob>
+	</student>
+</class>
